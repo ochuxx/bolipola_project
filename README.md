@@ -1,4 +1,4 @@
-# G2-BOLIPOLA
+# BOLIPOLA - Proyecto de técnico
 <p align="center"><img width="245" src="https://github.com/senacti/G2-BOLIPOLA/blob/main/bolipolaImage/thumbnail_IMG-20230719-WA0000.jpg"></p>
 
 ## Objetivo general 🎯🦍
